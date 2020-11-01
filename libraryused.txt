@@ -1,0 +1,18 @@
+npm install
+
+npm install react-router-dom
+
+npm i react-currency-format
+
+npm install @material-ui/core
+
+npm install react-number-format
+
+ 
+
+
+
+
+firebase emulator: start
+
+npm install moment
